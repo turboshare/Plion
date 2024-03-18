@@ -1,4 +1,4 @@
-var polymatrixabi = {"abi": [
+var polylion = {"abi": [
 	{
 		"inputs": [
 			{
